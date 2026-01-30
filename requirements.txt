@@ -1,0 +1,2 @@
+# Requires: abstract-loop
+# (Not available on PyPI)
